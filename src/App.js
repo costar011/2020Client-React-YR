@@ -6,7 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <div className="App">
-          <div className="App__top">top</div>
+          <div className="App__top"></div>
           <div className="App__main">main</div>
           <div className="App__bottom">bottom</div>
         </div>
