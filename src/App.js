@@ -9,7 +9,9 @@ class App extends React.Component {
           <div className="App__top">
             <div className="App__top__col1">Logo</div>
           </div>
+
           <div className="App__main"></div>
+
           <div className="App__bottom"></div>
         </div>
       </div>
